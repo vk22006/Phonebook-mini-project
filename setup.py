@@ -1,5 +1,5 @@
-// SPDX-License-Identifier: MIT
-// Copyright (c) 2025 Kishore V
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2025 Kishore V
 
 from setuptools import setup, Extension
 import pybind11
